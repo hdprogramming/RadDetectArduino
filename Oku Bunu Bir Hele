@@ -1,5 +1,0 @@
-Arduino uno için dizayn edildi
-A0 pin'i 4 buttonun olduğu devreden sinyal almak içindir devre için button bağlantı şemasına bakınız
-A5,A4 i^2c ile birbirine bağlı ads1115 16-bit ADC ve 16*2 lcd ekran için ayrıldı. Pullup dirençler 10k dır;
-Ekstra 5V,Gnd,A4,A5 pin çoğaltıcı 10k pull-up resistörlü devre tavsiye olunur.
-3 nolu pin ise piezo hoparlör için ayrıldı

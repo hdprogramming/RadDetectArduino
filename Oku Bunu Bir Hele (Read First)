@@ -1,0 +1,11 @@
+Arduino uno için dizayn edildi 
+A0 pin'i 4 buttonun olduğu devreden sinyal almak içindir devre için button bağlantı şemasına bakınız. 
+A5,A4 i^2c ile birbirine bağlı ads1115 16-bit ADC ve 16*2 lcd ekran için ayrıldı. Pullup dirençler 10k dır;
+Ekstra 5V,Gnd,A4,A5 pin çoğaltıcı 10k pull-up resistörlü devre tavsiye olunur.
+3 nolu pin ise piezo hoparlör için ayrıldı
+English version:
+Designed for the Arduino uno.
+A0 pin is for receiving signal from circuit with 4 buttons.
+A5, A4 i ^ 2c was connected to each other with the connected ads1115 for 16-bit ADC and 16 * 2 lcd display. Pullup resistors are 10k.
+Extra 5V, GND, A4, A5 pin coupler 10k pull-up resistor circuit is recommended.
+Pin 3 is reserved for the piezo speaker.
